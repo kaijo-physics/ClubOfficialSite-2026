@@ -19,6 +19,8 @@ aaaa
 a
 aa
 
+![aaa](test.jpg)
+
 ```py
     for i in range(10):
         print(i)
